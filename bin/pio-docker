@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-BASE_WORK_DIR=/templates
+BASE_WORK_DIR=/app
 CURRENT_DIR=`pwd`
 
 get_container_id() {
